@@ -13,6 +13,7 @@ Project Summary:
 Using the Elbow Method, I identified five clusters as the optimal number to represent meaningful customer segments. The analysis highlights customer behavior patterns and spending tendencies, which can be used to improve marketing and business strategy.
 
 Key Business Insights
+
 Cluster 1: Young, Low-Income, High-Spenders
 Age: Around 25
 Income: Low (~$26k)
